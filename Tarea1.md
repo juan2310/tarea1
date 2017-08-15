@@ -25,6 +25,7 @@
 
 
 ###Referencias
+1.markdown
 [1] Peng, R.D. 2011. Reproducible Research in Computational Science. *Science* 334: 1226-1227.
 [2] Marwick, B. 2016. Computational Reproducibilityin Archaelogical Research: Basic Principles and a Case Study of Their Implementation. *Journal of Archaeological Method and Theory* 23(2): 1-27.
 [3] Check Hayden, E. 2015. Rule rewrite aims to clean up scientific software. *Nature* 520: 276-277.
