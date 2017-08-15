@@ -12,7 +12,7 @@
 
 <p style="text-align: justify;"> Exiten varios ejemplos de estudios basados en CFD, que no tienen la cualidad de ser reproducibles debido a la falta de aclaraciones de pasos importantes dentro de la metodología. El primer caso es el del artículo __*Application of CFD on the optimization by response surface methodology of a micromixing unit and its use as a chemical microreactor*__ [Artículo](http://www.sciencedirect.com/science/article/pii/S025527011630681X) en donde en la metodología no se describen todas las dimensiones y ni características de la unidad de mezclado ni el tipo de análisis numérico con el que se avaluará dicha geometría; dando como resultado que al tratar de reporducir el análisis computacional, los datos obtenidos tengan una amplia variacion con respecto de los presentados en el trabajo.</p>
 
-![Encabezado del artículo](https://github.com/juan2310/tarea1/blob/master/2_2.png) ![Geometría](https://github.com/juan2310/tarea1/blob/master/1.png)
+![Encabezado del artículo](https://github.com/juan2310/tarea1/blob/master/1.png) ![Geometría](https://github.com/juan2310/tarea1/blob/master/2.png)
 
 <p style="text-align: justify;"> Del mismo modo en el segundo artículo __*Design of Interactively Time-pulsed Microfluidic Mixers in Microchip using Numerical Simulation*__  no se describen todas las dimensiones y ni características de la unidad de mezclado ni el tipo de análisis numérico con el que se avaluará dicha geometría; dando como resultado que al tratar de reporducir el análisis computacional, los datos obtenidos tengan una amplia variacion con respecto de los presentados en el trabajo. </p>
 
